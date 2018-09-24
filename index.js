@@ -1,5 +1,3 @@
-let second = 1;
-
 function adjustTime() {
   const calculateCoordinate = (radian, radius) => [
     160 + (Math.sin(radian) * radius),

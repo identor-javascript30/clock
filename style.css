@@ -16,8 +16,8 @@ body {
   justify-content: center;
 }
 
-svg {
-  width: 20rem;
+x-clock-app {
+  max-width: 20rem;
   height: 20rem;
 }
 

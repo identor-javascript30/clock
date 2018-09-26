@@ -1,4 +1,4 @@
-import {html, render} from '../node_modules/lit-html/lit-html.js';
+import {html, render} from 'https://unpkg.com/lit-html@0.11.4/lit-html.js';
 
 class Clock extends HTMLElement {
   constructor() {
